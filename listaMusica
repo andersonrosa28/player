@@ -1,0 +1,150 @@
+<?php require_once 'cabecalho.php' ?>
+
+	<div class="container">
+		<h1>Vinheta</h1>
+		<ul class="breadcrumb">
+			<li><a href="/">Home</a></li>
+			<li><a href="#">Vinhetas</a></li>
+			<li><a href="#">Tempo de Verão</a></li>
+		</ul>
+	</div>
+
+<div class="container">
+	<div class="row">
+	<blockquote class="col-md-8">
+	<p>Este pacote contém 10 vinhetas totalmente personalizadas para sua Rádio, desenvolvido com exclusivos vocais Cantados para todas as situações dentro da sua programação, vhs pontes, entrada de break, saida de break e vinhetinhos.</p>
+	</blockquote>
+
+
+
+	<div class="col-md-2">
+	<img  src="imagens/praia.jpg" width="320" height="200" alt="Tempo de Verão" />
+	<br>&nbsp;
+	</div>
+	</div>
+</div>
+<section class="container">
+
+<div>
+	<table class="table table-hover">
+		<tr >
+		<td>
+			<div class="icons">
+				<span class="glyphicon glyphicon-play icones" ></span>
+				<span class="glyphicon glyphicon-thumbs-up icones"></span> 	
+				<span class="texto" id="tabelaIcones">Abre Break</span> <span class="text-muted"></span>				
+			</div>
+		</td>
+	
+	</tr>
+
+	<tr >
+		<td >
+			<div class="icons">
+				<span class="glyphicon glyphicon-play icones"></span>
+				<span class="glyphicon glyphicon-thumbs-up icones"></span> 	
+				<span class="texto">Abre Break</span> <span class="text-muted"></span>				
+			</div>
+		</td>
+	
+	</tr>
+
+	<tr>
+		<td>
+			<div class="icons">
+				<span class="glyphicon glyphicon-play icones"></span>
+				<span class="glyphicon glyphicon-thumbs-up icones"></span> 	
+				<span class="texto">Abre Break</span> <span class="text-muted"></span>				
+			</div>
+		</td>
+	
+	</tr>
+	<tr>
+		<td>
+			<div class="icons">
+				<span class="glyphicon glyphicon-play icones"></span>
+				<span class="glyphicon glyphicon-thumbs-up icones"></span> 	
+				<span class="texto">Abre Break</span> <span class="text-muted"></span>				
+			</div>
+		</td>
+	
+	</tr>
+	<tr>
+		<td>
+			<div class="icons">
+				<span class="glyphicon glyphicon-play icones"></span>
+				<span class="glyphicon glyphicon-thumbs-up icones"></span> 	
+				<span class="texto">Abre Break</span> <span class="text-muted"></span>				
+			</div>
+		</td>
+	
+	</tr>
+	<tr>
+		<td>
+			<div class="icons">
+				<span class="glyphicon glyphicon-play icones"></span>
+				<span class="glyphicon glyphicon-thumbs-up icones"></span> 	
+				<span class="texto">Abre Break</span> <span class="text-muted"></span>				
+			</div>
+		</td>
+	
+	</tr>
+	<tr>
+		<td>
+			<div class="icons">
+				<span class="glyphicon glyphicon-play icones"></span>
+				<span class="glyphicon glyphicon-thumbs-up icones"></span> 	
+				<span class="texto">Abre Break</span> <span class="text-muted"></span>				
+			</div>
+		</td>
+	
+	</tr>
+	<tr>
+		<td>
+			<div class="icons">
+				<span class="glyphicon glyphicon-play icones"></span>
+				<span class="glyphicon glyphicon-thumbs-up icones"></span> 	
+				<span class="texto">Abre Break</span> <span class="text-muted"></span>				
+			</div>
+		</td>
+	
+	</tr>
+	</table>
+</div>
+
+
+<div style="margin-bottom:100px;" >
+	<h3 style="padding: 0 0 20px 0;">Ouça também:</h3>
+	<div class="row ">
+
+	<div class="row ">
+		<div class="col-md-4 space">	
+		<div class="relative">
+							<a  href="#"><img  src="imagens/praia.jpg" width="320" height="200" alt="Vics Ouvintes Nina" /></a>
+			</div>
+			<span  class="vejamais">Veja Mais</span>
+		</div>
+
+			<div class="col-md-4 space">	
+		<div class="relative">
+							<a  href="#"><img  src="imagens/praia.jpg" width="320" height="200" alt="Vics Ouvintes Nina" /></a>
+			</div>
+			<span  class="vejamais">Veja Mais</span>
+		</div>
+
+			<div class="col-md-4 space">	
+		<div class="relative">
+							<a  href="#"><img  src="imagens/praia.jpg" width="320" height="200" alt="Vics Ouvintes Nina" /></a>
+			</div>
+			<span  class="vejamais">Veja Mais</span>
+		</div>
+
+
+	</div>
+
+	
+	</div>
+</div>
+</section>
+<script type="text/javascript" src="teste.js"></script>
+<?php require_once 'rodape.php' ?>
